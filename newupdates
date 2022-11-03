@@ -1,7 +1,6 @@
-Version 0.1.1
-- Se arregla el bug de policia
-- Se elimina el menú de policia sección información de vehiculo por el MDT
-- Se limita a que solo te den un tipo de arma y munición (maximo)
-- Se limita la cantidad de medikits
-- Se arregla el garaje para que muestre autos y su precio.
-- Se arregla lo de incautar vehiculos (Policia)
+Version 0.1.2
+- Se arreglan los mecanicos.
+- Se eliminaron trabajos inservibles y se metieron nuevos.
+- Se agregan nuevas animaciones.
+- Se eliminaron teclas que causan conflicto y se reubicaron.
+- Levantar las manos ahora se mantiene.
