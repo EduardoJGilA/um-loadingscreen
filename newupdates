@@ -1,10 +1,8 @@
-Version 0.1.2
-- Se arreglan los mecanicos.
-- Se eliminaron trabajos inservibles y se metieron nuevos.
-- Se agregan nuevas animaciones.
-- Se eliminaron teclas que causan conflicto y se reubicaron.
-- Levantar las manos ahora se mantiene.
-- Se agregan nuevas herramientas
-- Nuevo sistema de grafitis 
-- Nuevo sistema de casas.
-- Nuevo trabajo de creador de casas (Whitelist)
+Version 0.1.3
+- Se agrega script de depositos
+- Se agrega script de basura
+- Se implementan nuevos vehículos
+- Se agrega creador de puertas
+- Se agrega creador de trabajos (Administración)
+- Nuevos items
+- Tatuajes
