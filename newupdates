@@ -1,16 +1,5 @@
-Version 0.1.3.5
-- Se agregan mascaras
-- Sistema de alarmas para auto (Ir a las alarmas para instalar)
-- Llaves para auto (ir al locksmith)
-- Nuevo control para auto (F9)
-- Posibilidad de dar las llaves del auto
-- Nueva progress bar para bennys
-- Se fixean algunos trabajos.
-- Nuevos mapeados (ig)
-- Se agrega script de depositos
-- Se agrega script de basura
-- Se implementan nuevos vehículos
-- Se agrega creador de puertas
-- Se agrega creador de trabajos (Administración)
-- Nuevos items
-- Tatuajes
+Version 0.1.4
+- Nuevo sistema de documentos.
+- Tienda de telefonos implementada (radios tambien)
+- Se fixean algunas partes del celular.
+- Nuevos sistemas (descubrirlos ig)
